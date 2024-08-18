@@ -46,7 +46,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         <meta property="og:description" content={desc} />
         <meta
           property="og:image"
-          content="https://braydentw.io/static/misc/og.png"
+          content="https://braydentw.io/static/logos/icon_logo.svg"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
