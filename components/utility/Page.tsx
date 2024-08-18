@@ -55,7 +55,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         <meta property="twitter:description" content={desc} />
         <meta
           property="twitter:image"
-          content="https://braydentw.io/static/misc/og.png"
+          content="https://braydentw.io/static/logos/icon_logo.svg"
         ></meta>
         {/* <script
           async
