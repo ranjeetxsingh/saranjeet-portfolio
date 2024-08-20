@@ -12,14 +12,6 @@ type Testimonial = {
 
 export const skills: Skill[] = [
   {
-    title: "HTML",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-  },
-  {
-    title: "CSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-  },
-  {
     title: "Photoshop",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg",
   },
@@ -28,13 +20,26 @@ export const skills: Skill[] = [
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg",
   },
   {
-    title: "Figma",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
-  },
-  {
     title: "inDesign",
     icon: "https://img.icons8.com/color/48/adobe-indesign--v1.png",
   },
+  {
+    title: "HTML",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+  },
+  {
+    title: "CSS",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+  },
+  {
+    title: 'WordPress',
+    icon: "https://img.icons8.com/color/48/wordpress.png",
+  },
+  {
+    title: "Figma",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
+  },
+  
   {
     title: "Mailchimp",
     icon: "https://img.icons8.com/bubbles/50/mailchimp.png",
@@ -51,10 +56,7 @@ export const skills: Skill[] = [
     title: "Powerpoint",
     icon: "https://img.icons8.com/color/48/ms-powerpoint--v1.png",
   },
-  {
-    title: 'WordPress',
-    icon: "https://img.icons8.com/color/48/wordpress.png",
-  },
+  
 ];
 
 export const testimonials: Testimonial[] = [
