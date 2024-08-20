@@ -7,7 +7,7 @@ type Design = {
 export const designs: Design[] = [
   {
     label: "Logo & Branding",
-    img: "/static/designs/Page-1.jpg",
+    img: "/static/designs/page-1.jpg",
     link: "https://www.behance.net/gallery/204557381/New-Coffee-Store",
   },
   {
