@@ -25,17 +25,18 @@ function Hero() {
             src="/static/doodles/hero/nextjs.svg"
           />
           <img
-            className="sqD bottom-[-300px] max-sm:left-[320px] max-sm:top-[430px] sm:right-[0%] lg:bottom-[-280px] lg:right-[100px] w-[100px]"
+            className="sqD right-[0px]  bottom-[-270px] max-sm:left-[250px] max-sm:top-[350px] sm:right-[0%] lg:bottom-[-280px] lg:right-[100px] w-[100px]"
             style={{ animationDelay: "0.3s" }}
             src="/static/doodles/hero/illustrator.svg"
           />
           <img
-            className="sqD bottom-[-270px] max-sm:left-[250px] max-sm:top-[350px] sm:right-[25%] lg:bottom-[-230px] lg:right-[270px] w-[100px]"
+            className="sqD right-[110px] bottom-[-270px] max-sm:left-[250px] max-sm:top-[350px] sm:right-[25%] lg:bottom-[-230px] lg:right-[270px] w-[100px]"
             style={{ animationDelay: "0.9s" }}
             src="/static/doodles/hero/adobe-indesign.svg"
           />
           <img
-            className="sqD hidden top-[300px] sm:block bottom-[-320px] left-[40px]"
+          // min-sm:left-[15px] max-sm:top-[200px] bottom-[-85px] sm:bottom-[-100px] sm:left-5
+            className="sqD hidden  left-[100px] top-[300px] sm:top-[220px] sm:left-[20px] md:bottom-[-320px]   md:top-[300px] lg-top-[300px] sm:block lg-bottom-[-320px] lg-left-[40px]"
             style={{ animationDelay: "0.4s" }}
             src="/static/doodles/hero/behance-svgrepo-com.svg"
           />
@@ -59,7 +60,7 @@ function Hero() {
             src="/static/doodles/hero/pop1.svg"
           />
           <img
-            className="sqD max-sm:left-[5px] max-sm:top-[200px] bottom-[-85px] sm:bottom-[-100px] sm:left-5 opacity-40"
+            className="sqD min-sm:left-[15px] max-sm:top-[200px] bottom-[-85px] sm:bottom-[-100px] sm:left-5 opacity-40"
             style={{ animationDelay: "0.9s" }}
             src="/static/doodles/hero/photoshop.svg"
           />
